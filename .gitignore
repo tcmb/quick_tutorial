@@ -1,0 +1,5 @@
+.idea/
+env34/
+setuptools-14.3.1.zip
+*egg-info
+__pycache__/
